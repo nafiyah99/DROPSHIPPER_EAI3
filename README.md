@@ -22,5 +22,15 @@ Sebagai **DROPSHIPPER**, kami melakukan pertukaran data dengan:
 - mengambil nomor VA
 - menyediakan data id resi
 
-## 
+## Tools yang Digunakan
+
+- menggunakan *php* Native
+- menggunakan VSCode
+- Menggunakan postman
+
+## GET PRODUCT
+
+How to GET data product
+
+<img src="asset/get product.jpg">
 
