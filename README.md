@@ -32,5 +32,5 @@ Sebagai **DROPSHIPPER**, kami melakukan pertukaran data dengan:
 
 How to GET data product
 
-<img src="asset/get product.jpg">
+<img src="TubesEAI/asset/get product.jpg">
 
